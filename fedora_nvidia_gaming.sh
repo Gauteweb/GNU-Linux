@@ -2,6 +2,7 @@
 
 # Skript skrevet av: Gaute Holmin 19/5-2026.
 # Dette skriptet vil installere alt du trenger for å komme gang med gaming på Fedora Linux (Workstation og KDE Plasma Desktop).
+# En forutsetning for dette skriptet er at du har aktivert tredjeparts repo's (Enable Third Party Repositories).
 # For å kunne kjøre skriptet etter nedlasting må du åpne en terminal i mappen du har lastet ned skriptet og bruke kommandoene:
 # chmod +x fedora_nvidia_gaming.sh
 # ./fedora_nvidia_gaming.sh
