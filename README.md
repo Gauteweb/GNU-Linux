@@ -1,7 +1,6 @@
 # GNU/Linux
 Her finner du en samling med diverse shell skript jeg har laget for forskjellige formål, stort sett for å gjøre livet enklere.
 
-[TOC]
 
 ## Fedora og Nvidia oppsett for gaming
 Har du installert Fedora Workstation eller Fedora KDE Plasma Desktop og du har en maskin med Nvidia grafikkort? Isåfall har jeg [her laget et skript som installerer alt du måtte trenge av drivere og programvare](https://github.com/Gauteweb/GNU-Linux/blob/main/fedora_nvidia_gaming.sh) for å enkelt komme igang med gaming på Linux.
