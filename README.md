@@ -5,7 +5,7 @@ Er du fortsatt usikker på om du skal prøve deg på gaming med Linux? Ta gjerne
 
 
 ## Fedora og Nvidia oppsett for gaming
-Har du installert Fedora Workstation eller Fedora KDE Plasma Desktop og du har en maskin med Nvidia grafikkort? Isåfall har jeg [her laget et skript som installerer alt du måtte trenge av drivere og programvare](https://github.com/Gauteweb/GNU-Linux/blob/main/fedora_nvidia_gaming.sh) for å enkelt komme igang med gaming på Linux. 
+Har du installert [Fedora Workstation](https://fedoraproject.org/workstation/) eller [Fedora KDE Plasma Desktop](https://fedoraproject.org/kde/) og du har en maskin med Nvidia grafikkort? Isåfall har jeg [her laget et skript som installerer alt du måtte trenge av drivere og programvare](https://github.com/Gauteweb/GNU-Linux/blob/main/fedora_nvidia_gaming.sh) for å enkelt komme igang med gaming på Linux. 
 
 ![Min desktop](https://github.com/Gauteweb/GNU-Linux/blob/main/stormtrooper_desktop.jpg)
 
