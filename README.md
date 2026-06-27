@@ -12,8 +12,10 @@ Sjekk også ut mine [rapporter på ProtonDB](https://www.protondb.com/users/4400
 ## Forenklet oppdatering av Fedora
 Dette skriptet fungerer på alle varianter av Fedora og sannsynligvis også på alle Fedora-baserte distroer som for eksempel Bazzite og Nobara. [Skriptet oppdaterer både Flatpak og DNF i en swoop](https://github.com/Gauteweb/GNU-Linux/blob/main/update_fedora.sh). 
 
-Jeg har satt det opp til å startes fra en knapp på min Stream Deck slik at oppdateringer alltid bare er et knappetrykk unna. Jeg ahr da brukt OpenDeck med "Run Command":
+Jeg har satt det opp til å startes fra en knapp på min Stream Deck slik at oppdateringer alltid bare er et knappetrykk unna. Jeg har da brukt OpenDeck med "Run Command":
 - KDE Plasma: konsole -e ./update.sh
 - GNOME: terminal -e ./update.sh
 
 ![Mitt Stream Deck oppsett](https://github.com/Gauteweb/GNU-Linux/blob/main/streamdeck_update.jpg)
+
+Siden Fedora har rullende oppdateringer kommer det ganske mye småoppdateringer jevnlig, så det kan bli litt tidkrevende å stadig enten åpne opp oppdaterings-GUI'et og kjøre oppdateringene der. Dette skriptet forkorter tiden brukt på oppdateringer ganske mye, spesielt om du knytter det opp til en knapp på for eksempel Stream Deck, eller ved å knytte det til en tastatursnarvei på tastaturet ditt (_dette gjør du under tastatur-innstillingene i Fedora_).
