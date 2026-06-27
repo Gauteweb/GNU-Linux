@@ -1,6 +1,8 @@
 # GNU/Linux
 Her finner du en samling med diverse shell skript jeg har laget for forskjellige formål, stort sett for å gjøre livet enklere, spesielt for oss som liker å spille dataspill på Linux.
 
+Er du fortsatt usikker på om du skal prøve deg på gaming med Linux? Ta gjerne og [les denne artikkelen](https://www.spillnorge.no/blog/er-gaming-pa-linux-for-deg) min om akkurat det på SpillNorge.no før du kaster deg ut i det.
+
 
 ## Fedora og Nvidia oppsett for gaming
 Har du installert Fedora Workstation eller Fedora KDE Plasma Desktop og du har en maskin med Nvidia grafikkort? Isåfall har jeg [her laget et skript som installerer alt du måtte trenge av drivere og programvare](https://github.com/Gauteweb/GNU-Linux/blob/main/fedora_nvidia_gaming.sh) for å enkelt komme igang med gaming på Linux. 
