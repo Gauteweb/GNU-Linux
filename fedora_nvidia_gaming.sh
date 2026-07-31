@@ -72,9 +72,13 @@ read -p "Trykk [Enter] for å fortsette..."
 # Installere Heroic Launcher
 echo -e "\nInstallerer Heroic Launcher via Flatpak (for å kunne spille spill fra Epic og GoG)."
 flatpak install heroic
+read -p "Trykk [Enter] for å fortsette..."
+
+# Justerer kjerneparametre for gaming
+sudo grubby --args="preempt=full transparent_hugepage=always" --update-kernel=ALL
 
 # Fullført melding
-echo -e "\nNå er Fedora klart for gaming, men ta en restart først, så du er sikker på at de beste Nvidia-driverne blir brukt."
+echo -e "\nNå er Fedora klart for gaming, men ta en restart først, så du er sikker på at de beste Nvidia-driverne og de oppdaterte kjerneparameterne blir brukt."
 read -p "Trykk [Enter] for å ta en restart av PC'en..."
 
 #restart
