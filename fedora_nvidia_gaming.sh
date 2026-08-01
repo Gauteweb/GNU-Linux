@@ -64,6 +64,11 @@ echo -e "\nInstallerer ProtonPlus via Flatpak."
 flatpak install flathub com.vysp3r.ProtonPlus
 read -p "Trykk [Enter] for å fortsette..."
 
+# Installere Protontricks
+echo -e "\nInstallerer Protontricks via DNF."
+sudo dnf install protontricks
+read -p "Trykk [Enter] for å fortsette..."
+
 # Installere Steam
 echo -e "\nInstallerer Steam via DNF."
 sudo dnf install steam
