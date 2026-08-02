@@ -87,4 +87,4 @@ echo -e "\nNå er Fedora klart for gaming, men ta en restart først, så du er s
 read -p "Trykk [Enter] for å ta en restart av PC'en..."
 
 #restart
-sudo shutdown -r now
+sudo systemctl reboot
