@@ -1,8 +1,11 @@
 #!/bin/bash
 
-# Skript skrevet av: Gaute Holmin 19/5-2026.
-# Dette skriptet vil installere alt du trenger for å komme gang med gaming på Fedora Linux (Workstation og KDE Plasma Desktop).
-# En forutsetning for dette skriptet er at du har aktivert tredjeparts repo's (Enable Third Party Repositories).
+# Skript skrevet av: Gaute Holmin.
+# Første versjon utgitt: 19/5-2026.
+# Dette skriptet vil installere alt du trenger for å komme gang med gaming på Fedora Linux (Workstation og KDE Plasma Desktop) med Nvidia grafikkort.
+# Skriptet vil også gjøre noen steg som forbedrer ytelsen på Fedora for gaming.
+# Skriptet er skrevet og testet på Fedora 44, men bør virke på alle Fedora-baserte distroer.
+# En forutsetning for dette skriptet er at du har aktivert tredjeparts repo's (Enable Third Party Repositories). Dette gjør du enkelt i GUI på Fedora.
 # For å kunne kjøre skriptet etter nedlasting må du åpne en terminal i mappen du har lastet ned skriptet og bruke kommandoene:
 # chmod +x fedora_nvidia_gaming.sh
 # ./fedora_nvidia_gaming.sh
