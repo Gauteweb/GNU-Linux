@@ -33,7 +33,7 @@ echo -e "\nMerk: Det kan ta opp mot 5 minutter før driveren er helt oppdatert"
 read -p "Trykk [Enter] for sjekke driver-versjon..."
 
 # Oppdater med DNF
-echo -e "\nSjekker Nvidia-versjon, om det ikke kommer opp et versonsnummer, vent noen minutter før du går videre:"
+echo -e "\nSjekker Nvidia-versjon, om det ikke kommer opp et versjonsnummer, vent noen minutter før du går videre:"
 modinfo -F version nvidia
 read -p "Trykk [Enter] for å teste driver-versjon en gang til..."
 
@@ -87,6 +87,8 @@ sudo grubby --args="preempt=full transparent_hugepage=always" --update-kernel=AL
 
 # Fullført melding
 echo -e "\nNå er Fedora klart for gaming, men ta en restart først, så du er sikker på at de beste Nvidia-driverne og de oppdaterte kjerneparameterne blir brukt."
+echo -e "\nHvis restart feiler, prøv å deaktivere Secure Boot i BIOS."
+echo -e
 read -p "Trykk [Enter] for å ta en restart av PC'en..."
 
 #restart
