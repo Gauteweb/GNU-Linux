@@ -1,4 +1,4 @@
-# GNU/Linux
+# Gaming på Linux
 Her finner du en samling med diverse shell skript jeg har laget for forskjellige formål, stort sett for å gjøre livet enklere, spesielt for oss som liker å spille dataspill på Linux.
 
 Er du fortsatt usikker på om du skal prøve deg på gaming med Linux? Ta gjerne og [les denne artikkelen](https://www.spillnorge.no/blog/er-gaming-pa-linux-for-deg) min om akkurat det på SpillNorge.no før du kaster deg ut i det.
