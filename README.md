@@ -24,6 +24,6 @@ Jeg har satt det opp til å startes fra en knapp på min Stream Deck slik at opp
 
 ![Mitt Stream Deck oppsett](https://github.com/Gauteweb/GNU-Linux/blob/main/streamdeck_update.jpg)
 
-Siden Fedora har rullende oppdateringer kommer det ganske mye småoppdateringer jevnlig, så det kan bli litt tidkrevende å stadig enten åpne opp oppdaterings-GUI'et og kjøre oppdateringene der. 
+Siden Fedora har rullende oppdateringer kommer det ganske mye småoppdateringer jevnlig, så det kan bli litt tidkrevende å stadig åpne opp oppdaterings-GUI'et og kjøre oppdateringene der. 
 
 Dette skriptet forkorter tiden brukt på oppdateringer ganske mye, spesielt om du knytter det opp til en knapp på for eksempel Stream Deck, eller ved å knytte det til en tastatursnarvei på tastaturet ditt (_dette gjør du under tastatur-innstillingene i Fedora_).
